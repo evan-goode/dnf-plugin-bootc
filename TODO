@@ -1,0 +1,14 @@
+- CI jobs
+  - Connect that in GitHub Actions
+  - Add appropriate control files and scripts
+- Plugin
+  - Command line option handling
+  - configure()
+  - run()
+  - Logging from running rpm-ostree to appropriate log
+- Test suite
+  - Yeah, probably need that
+- Documentation
+  - The man page rst file is not done
+- Translations
+  - Hook up to Weblate

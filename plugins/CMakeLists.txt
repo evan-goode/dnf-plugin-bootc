@@ -1,0 +1,1 @@
+INSTALL (FILES bootc.py DESTINATION ${PYTHON_INSTALL_DIR}/dnf-plugins)
